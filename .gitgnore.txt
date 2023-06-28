@@ -1,0 +1,5 @@
+__Previews/
+History/
+* Project Logs for Hydrophone_preamplifier_V2*
+Project Outputs for Hydrophone_preamplifier_V2 *
+*.DSNlck
